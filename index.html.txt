@@ -11,6 +11,7 @@
         <li>Ansible: sua infraestrutura como código</li>
         <li>Integração Contínua</li>
         <li>Kubernetes: Introdução à orquestração de Containers</li>
+        Alterações
     </ul>
 </body>
 </html>
